@@ -1,5 +1,5 @@
 # Robert Elliot Kahn
-![Zde je obrázek, toto vydíte protože se vám nenačetl. je zde obrázek Alana Mathisona Turinga](https:https://www.google.com/url?sa=i&url=https%3A%2F%2Fengineering.purdue.edu%2FEngr%2FAboutUs%2FNews%2FEvents%2FDistinguishedLectures%2F2017-2018%2Fkahn-lecture&psig=AOvVaw3UukaQBXlfxS0W15mHZy5H&ust=1758306507956000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOjqqKz44o8DFQAAAAAdAAAAABAE)
+![Robert Elliot KAhn](https://engineering.purdue.edu/Engr/AboutUs/News/Events/DistinguishedLectures/2017-2018/kahn-lecture/5RobertKahn-DistinguishedLecture-300x400.png/alter?width=150&height=200)
 Robert Elliot Kahn byl americký inženýr a informatik, který hrál klíčovou roli při vývoji základních technologií internetu. Nejvýznamněji se zapsal do historie jako jeden ze spolutvůrců protokolu TCP/IP, který umožnil vznik celosvětové počítačové sítě. Na tomto průlomovém projektu spolupracoval s Vintonem Cerfem v 70. letech 20. století, kdy společně položili základy moderní internetové komunikace.
 Kahn působil v rámci americké agentury ARPA (později DARPA), kde vedl projekty zaměřené na pokročilé formy síťové komunikace mezi počítači. Díky jeho přístupu k modulárnímu a robustnímu návrhu síťových protokolů bylo možné propojit různé druhy počítačových sítí do jednotného systému – základu dnešního internetu.
 
